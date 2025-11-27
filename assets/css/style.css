@@ -170,7 +170,7 @@ font-size: 12px;
 #slider {
     margin-top: 46px;;
     padding-top: 50%;
-    background: url(/assets/img/background.jpg) top center / cover no-repeat;
+    background: url(../img/background.jpg) top center / cover no-repeat;
     background-size: contain;
     position: relative;
 }
